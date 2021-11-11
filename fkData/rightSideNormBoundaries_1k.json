@@ -1,0 +1,34 @@
+{
+    "target": {
+        "x": {
+            "min": -0.546,
+            "max": 0.934
+        },
+        "y": {
+            "min": -0.831,
+            "max": 0.232
+        },
+        "z": {
+            "min": -0.355,
+            "max": 1.002
+        }
+    },
+    "links": {
+        "shoulderRightLink": {
+            "min": 0,
+            "max": 1.05
+        },
+        "limbRightLink": {
+            "min": -1.045,
+            "max": 1.48
+        },
+        "armRightLink": {
+            "min": -1.38,
+            "max": 0
+        },
+        "forearmRollRightLink": {
+            "min": -1.2,
+            "max": 0.65
+        }
+    }
+}
